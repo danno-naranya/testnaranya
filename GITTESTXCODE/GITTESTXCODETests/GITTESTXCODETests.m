@@ -1,6 +1,10 @@
 //
-//aaa  lllGITTESTXCODETests.m
+<<<<<<< HEAD
 //  GITTESTXCODETests
+=======
+//22222GITTESTXCODETests.m
+//22222GITTESTXCODETests
+>>>>>>> 8800750f32ddc1340d5062e2bae80e2c1cfab10d
 //
 //  Created by Daniel Felipe Heredia Saucedo on 6/1/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
