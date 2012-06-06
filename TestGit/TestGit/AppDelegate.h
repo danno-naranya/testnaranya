@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @class ViewController;
-
+//Comentario agregado desde nano
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
